@@ -10,4 +10,4 @@ This project monitors the availability of HTTP endpoints using a YAML configurat
 
 git clone https://github.com/YOUR_USERNAME/sre-take-home
 cd sre-take-home
-pip install -r requirements.txt  # only needs PyYAML and requests
+pip install -r req.txt  # only needs PyYAML and requests to import
