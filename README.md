@@ -8,7 +8,7 @@ This project monitors the availability of HTTP endpoints using a YAML configurat
 
 ## How to use:
 
-git clone https://github.com/iperezpina/Fetch-SRE-Exercise.git 
+git clone https://github.com/iperezpina/Fetch-SRE-Exercise.git  
 cd sre-take-home  
 pip install -r req.txt  # only needs PyYAML and requests to import  
 
